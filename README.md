@@ -9,7 +9,7 @@ The goal is to design and create the structure of a SpaceX launch tracker app us
 
 App must use the latest Android jetpack libraries and best practices:
 
-* Architecture: MVVM with a single activity.
+* Architecture: Implement [Google's recommended architecture](https://developer.android.com/jetpack/docs/guide#recommended-app-arch)
 
 * Entirely written in Kotlin.
 
