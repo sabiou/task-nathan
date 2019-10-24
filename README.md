@@ -13,10 +13,8 @@ App must use the latest Android jetpack libraries and best practices:
 
 * Entirely written in Kotlin.
 
-* Makes use of theses [Android Jetpack](https://developer.android.com/jetpack/) libraries: **LiveData**, **ViewModel**, **Room**, **Navigation**
+* Makes use of theses [Android Jetpack](https://developer.android.com/jetpack/) libraries:
 
-  * [ConstraintLayout](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout),
-  
   * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) to observe data
   
   * [Data Binding](https://developer.android.com/topic/libraries/data-binding/) to bind UI components in your layouts to data sources.
