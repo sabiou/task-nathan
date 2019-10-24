@@ -1,6 +1,6 @@
 # task-nathan
 
-The goal is to design and create the structure of a SpaceX launch tracker app using the data from the open-source SpaceX REST API https://docs.spacexdata.com/?version=latest
+The goal is to design and create a SpaceX launch tracker app using the data from the open-source SpaceX REST API https://docs.spacexdata.com/?version=latest
 
 ## Features (must have)
 * **Upcoming Launch**: detailed list of upcoming launches.
